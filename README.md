@@ -1,2 +1,2 @@
-# cmslambda-api
+# Cmslambda API
 The Cmslmbda's API
